@@ -1,0 +1,10 @@
+{
+	"name": "plugin-test",
+	"description": "A test plugin for IJO.",
+	"version": "0.0.1",
+	"panel": {
+		"index": "index.js",
+		"platform": "*",
+		"lang": "js"
+	}
+}
