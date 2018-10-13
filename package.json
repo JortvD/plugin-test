@@ -1,0 +1,16 @@
+{
+  "name": "@ijo-sm/plugin-test",
+  "version": "0.0.1",
+  "description": "A test plugin for IJO.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JortvD/plugin-test.git"
+  },
+  "author": "IJO",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JortvD/plugin-test/issues"
+  },
+  "homepage": "https://github.com/JortvD/plugin-test#readme"
+}
